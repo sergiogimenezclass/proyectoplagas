@@ -36,3 +36,36 @@
     background-color: #d1a813;
     color: white;
 }
+
+
+.foto_quienes_somos {
+    width: 400px;
+}
+
+.cita {
+    width: 300px;
+    
+    background-color: #f1f1f1;
+    position: relative;
+    top: -100px;
+    left: 200px;
+    border-top: 4px solid #ffc700;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.somos_texto h1{
+    font-weight: bold;
+
+}
+
+.somos_texto span {
+    color: #ffc700;
+    font-weight: bold;
+}
+
+.quienes_somos_cotenedor {
+    margin-top: 200px;
+}
